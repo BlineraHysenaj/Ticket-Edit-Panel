@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@angular/cli": "^18.2.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

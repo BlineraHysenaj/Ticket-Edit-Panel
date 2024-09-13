@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-importance</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-873, -313)">
+            <g id="icon-importance" transform="translate(873, 313)">
+                <polygon id="Path" points="0 0 16 0 16 16 0 16"></polygon>
+                <path d="M6.66666667,3.33333333 C6.66666667,4.069713 7.26362033,4.66666667 8,4.66666667 C8.73637967,4.66666667 9.33333333,4.069713 9.33333333,3.33333333 C9.33333333,2.59695367 8.73637967,2 8,2 C7.26362033,2 6.66666667,2.59695367 6.66666667,3.33333333" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M2,12.6666667 C2,13.4030463 2.59695367,14 3.33333333,14 C4.069713,14 4.66666667,13.4030463 4.66666667,12.6666667 C4.66666667,11.930287 4.069713,11.3333333 3.33333333,11.3333333 C2.59695367,11.3333333 2,11.930287 2,12.6666667" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.3333333,12.6666667 C11.3333333,13.4030463 11.930287,14 12.6666667,14 C13.4030463,14 14,13.4030463 14,12.6666667 C14,11.930287 13.4030463,11.3333333 12.6666667,11.3333333 C11.930287,11.3333333 11.3333333,11.930287 11.3333333,12.6666667" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round" points="4.33333333 11.6666667 8 8.66666667 11.6666667 11.6666667"></polyline>
+                <line x1="8" y1="4.66666667" x2="8" y2="8.66666667" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

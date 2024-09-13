@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-assignee</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-873, -257)">
+            <g id="icon-assignee" transform="translate(873, 257)">
+                <polygon id="Path" points="0 0 16 0 16 16 0 16"></polygon>
+                <path d="M5.33333333,4.66666667 C5.33333333,6.139426 6.52724067,7.33333333 8,7.33333333 C9.47275933,7.33333333 10.6666667,6.139426 10.6666667,4.66666667 C10.6666667,3.19390733 9.47275933,2 8,2 C6.52724067,2 5.33333333,3.19390733 5.33333333,4.66666667" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M4,14 L4,12.6666667 C4,11.1939073 5.19390733,10 6.66666667,10 L9.33333333,10 C10.8060927,10 12,11.1939073 12,12.6666667 L12,14" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

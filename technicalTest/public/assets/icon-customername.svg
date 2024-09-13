@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-customername</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-873, -341)">
+            <g id="icon-customername" transform="translate(873, 341)">
+                <polygon id="Path" points="0 0 16 0 16 16 0 16"></polygon>
+                <path d="M2,4.66666667 C2,3.56209717 2.8954305,2.66666667 4,2.66666667 L12,2.66666667 C13.1045695,2.66666667 14,3.56209717 14,4.66666667 L14,11.3333333 C14,12.4379028 13.1045695,13.3333333 12,13.3333333 L4,13.3333333 C2.8954305,13.3333333 2,12.4379028 2,11.3333333 L2,4.66666667 Z" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M4.66666667,6.66666667 C4.66666667,7.40304633 5.26362033,8 6,8 C6.73637967,8 7.33333333,7.40304633 7.33333333,6.66666667 C7.33333333,5.930287 6.73637967,5.33333333 6,5.33333333 C5.26362033,5.33333333 4.66666667,5.930287 4.66666667,6.66666667" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="10" y1="5.33333333" x2="11.3333333" y2="5.33333333" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="10" y1="8" x2="11.3333333" y2="8" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="4.66666667" y1="10.6666667" x2="11.3333333" y2="10.6666667" id="Path" stroke="#687196" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

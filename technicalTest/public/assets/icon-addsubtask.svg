@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-addsubtask</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-889, -685)" stroke="#687196" stroke-width="1.2">
+            <g id="Group-6" transform="translate(890, 682)">
+                <g id="zoomIn" transform="translate(0, 4)">
+                    <line x1="5.14285714" y1="0" x2="5.14285714" y2="10" id="Path"></line>
+                    <line x1="0" y1="5.14285714" x2="10" y2="5.14285714" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

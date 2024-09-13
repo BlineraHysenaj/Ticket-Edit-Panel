@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-details</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-820, -105)" stroke="#687196">
+            <g id="icon-details" transform="translate(820.6667, 105.5)">
+                <path d="M0,1.5 C0,0.671572875 0.671572875,0 1.5,0 L10.5,0 C11.3284271,0 12,0.671572875 12,1.5 L12,10.5 C12,11.3284271 11.3284271,12 10.5,12 L1.5,12 C0.671572875,12 0,11.3284271 0,10.5 L0,1.5 Z" id="Path"></path>
+                <line x1="0" y1="6" x2="12" y2="6" id="Path"></line>
+                <line x1="6" y1="0" x2="6" y2="12" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>

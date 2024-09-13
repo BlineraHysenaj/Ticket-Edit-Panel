@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-logicpilot</title>
+    <defs>
+        <linearGradient x1="6.50998352e-13%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#708DFF" offset="0%"></stop>
+            <stop stop-color="#FF81F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-885, -175)">
+            <g id="Group-88" transform="translate(885, 175)">
+                <polygon id="Path" points="0 0 16 0 16 16 0 16"></polygon>
+                <path d="M10.0740741,12.1481481 C11.2195536,12.1481481 12.1481481,13.0767427 12.1481481,14.2222222 C12.1481481,13.0767427 13.0767427,12.1481481 14.2222222,12.1481481 C13.0767427,12.1481481 12.1481481,11.2195536 12.1481481,10.0740741 C12.1481481,11.2195536 11.2195536,12.1481481 10.0740741,12.1481481 Z" id="Path" stroke="url(#linearGradient-1)" stroke-width="0.5" fill="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M1.18518519,3.85185185 C2.33066467,3.85185185 3.25925926,4.78044644 3.25925926,5.92592593 C3.25925926,4.78044644 4.18785385,3.85185185 5.33333333,3.85185185 C4.18785385,3.85185185 3.25925926,2.92325726 3.25925926,1.77777778 C3.25925926,2.92325726 2.33066467,3.85185185 1.18518519,3.85185185 Z" id="Path" stroke="url(#linearGradient-1)" stroke-width="0.5" fill="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M7.7037037,13.6296296 C7.7037037,10.3568311 10.3568311,7.7037037 13.6296296,7.7037037 C10.3568311,7.7037037 7.7037037,5.0505763 7.7037037,1.77777778 C7.7037037,5.0505763 5.0505763,7.7037037 1.77777778,7.7037037 C5.0505763,7.7037037 7.7037037,10.3568311 7.7037037,13.6296296 Z" id="Path" stroke="url(#linearGradient-1)" fill="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

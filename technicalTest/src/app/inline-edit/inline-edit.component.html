@@ -1,0 +1,5 @@
+<div (click)="toggleEdit()">
+    <span *ngIf="!isEditing">{{ value }}</span>
+    <input *ngIf="isEditing" [formControl]="editControl" (blur)="toggleEdit()" />
+  </div>
+  

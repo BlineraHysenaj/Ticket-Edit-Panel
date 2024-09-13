@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-attachments</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-1158, -104)" stroke="#687196">
+            <g id="icon-attachments" transform="translate(1159, 105)">
+                <path d="M7.57597398,2.82842709 L3.24264064,7.16176043 C2.69035591,7.71404518 2.69035591,8.60947567 3.24264066,9.16176041 C3.7949254,9.71404516 4.69035589,9.71404516 5.24264064,9.16176043 L9.57597398,4.82842709 C10.6805434,3.72385759 10.6805434,1.93299661 9.57597395,0.828427125 C8.47140446,-0.276142363 6.68054348,-0.276142377 5.57597398,0.828427095 L1.24264064,5.16176043 C-0.414213565,6.81861469 -0.414213545,9.50490615 1.24264069,11.1617604 C2.89949492,12.8186146 5.58578639,12.8186146 7.24264064,11.1617604 L11.575974,6.82842709" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-checkmark</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-886, -578)" fill="#3E40DB" fill-rule="nonzero" stroke="#3E40DB">
+            <g id="Group-3" transform="translate(882, 572)">
+                <path d="M14.0428882,6.9815157 L8.33296332,13.3088118 L5.95697298,10.7049148 C5.73829973,10.4622732 5.38309445,10.4622732 5.1644212,10.7049148 C4.94519293,10.9475563 4.94519293,11.3403749 5.1644212,11.5823958 L7.93890746,14.6225511 C8.16646084,14.8465756 8.5066809,14.8713983 8.73145925,14.6225511 L14.8359951,7.85899675 C15.0546683,7.61697581 15.0546683,7.22353664 14.8359951,6.9815157 C14.6167668,6.73949477 14.2621165,6.73949477 14.0428882,6.9815157 Z" id="icon-checkmark"></path>
+            </g>
+        </g>
+    </g>
+</svg>

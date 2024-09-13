@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-invoiceid</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE---Takehome-Test---Hover-&amp;-Input-State" transform="translate(-873, -369)">
+            <g id="icon-invoiceid" transform="translate(873, 369)">
+                <rect id="Rectangle" fill="#687196" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <g id="Group-89" transform="translate(2.5, 1)" stroke="#687196" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M3.14285714,1.55555556 L1.57142857,1.55555556 C0.703552536,1.55555556 0,2.2520015 0,3.11111111 L0,12.4444444 C0,13.3035541 0.703552536,14 1.57142857,14 L9.42857143,14 C10.2964475,14 11,13.3035541 11,12.4444444 L11,3.11111111 C11,2.2520015 10.2964475,1.55555556 9.42857143,1.55555556 L7.85714286,1.55555556" id="Path"></path>
+                    <path d="M3.14285714,1.55555556 C3.14285714,0.696445945 3.84640968,0 4.71428571,0 L6.28571429,0 C7.15359032,0 7.85714286,0.696445945 7.85714286,1.55555556 L7.85714286,1.55555556 C7.85714286,2.41466517 7.15359032,3.11111111 6.28571429,3.11111111 L4.71428571,3.11111111 C3.84640968,3.11111111 3.14285714,2.41466517 3.14285714,1.55555556 Z" id="Path"></path>
+                    <line x1="3.14285714" y1="7" x2="7.85714286" y2="7" id="Path"></line>
+                    <line x1="3.14285714" y1="10.1111111" x2="7.85714286" y2="10.1111111" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
