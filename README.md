@@ -37,13 +37,11 @@ Follow the instructions below to run the project locally.
     ng serve -o
     ```
 
-## Screenshot
+## Screenshot 
 
-![Ticket Edit Panel Screenshot]
 ![image](https://github.com/user-attachments/assets/085a37dd-063c-4e69-a4f2-8fc080e3c760)
 
 
-This will open the application in your default browser.
 
 ## Built With
 
