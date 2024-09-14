@@ -22,7 +22,7 @@ Follow the instructions below to run the project locally.
 2. Navigate to the project directory:
 
     ```bash
-    cd ticket-edit-panel
+    cd technicalTest
     ```
 
 3. Install dependencies:
