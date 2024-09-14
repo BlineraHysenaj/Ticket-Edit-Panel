@@ -16,7 +16,7 @@ Follow the instructions below to run the project locally.
 1. Clone the repository:
 
     ```bash
-   [https://github.com/BlineraHysenaj/BlineraHysenaj.github.io.git]
+   https://github.com/BlineraHysenaj/AngularChallenge
     ```
 
 2. Navigate to the project directory:
