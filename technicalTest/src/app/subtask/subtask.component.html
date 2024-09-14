@@ -1,0 +1,31 @@
+<div class="subtask-container">
+    <!-- Add subtask input -->
+    <div class="add-subtask">
+      <input 
+        [(ngModel)]="newSubtaskName" 
+        (keyup.enter)="addSubtask()" 
+        placeholder="Enter subtask" 
+        class="form-control" 
+        autofocus />
+      <button (click)="addSubtask()">Add subtask</button>
+    </div>
+  
+    <!-- List of subtasks -->
+    <ul class="subtask-list">
+      <li *ngFor="let subtask of subtasks">
+        <input type="checkbox" [(ngModel)]="subtask.completed" (change)="toggleCompletion(subtask)" />
+        <span 
+          [ngClass]="{ 'completed': subtask.completed }" 
+          *ngIf="!subtask.editing"
+          (dblclick)="editSubtask(subtask)">
+          {{ subtask.name }}
+        </span>
+        <input 
+          *ngIf="subtask.editing" 
+          [(ngModel)]="subtask.name" 
+          (blur)="saveSubtask(subtask)" 
+          class="subtask-input subtask-input-{{ subtasks.indexOf(subtask) }}" />
+      </li>
+    </ul>
+
+  </div>

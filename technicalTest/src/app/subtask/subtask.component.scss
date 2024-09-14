@@ -1,0 +1,60 @@
+.subtask-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: grey;
+    position: relative;
+    transition: all 0.3s ease;
+  }
+  
+  input[type='checkbox']:checked + span {
+    color: green;
+  }
+  
+  .subtask-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .subtask-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .add-subtask {
+    display: flex;
+    align-items: center;
+  }
+  
+  .add-subtask input {
+    margin-right: 10px;
+  }
+  
+  .subtask-input {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  input[type="checkbox"] {
+    position: relative;
+    cursor: pointer;
+  }
+  
+  input[type="checkbox"]:checked::before {
+    content: '✔';
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: green;
+    font-size: 18px;
+    transform: scale(1);
+    transition: transform 0.2s ease-in-out;
+  }
+  

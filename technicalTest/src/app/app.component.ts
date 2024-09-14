@@ -11,7 +11,7 @@ import { isPlatformBrowser } from '@angular/common';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements AfterViewInit {
-  title = 'technicalTest';
+  title = 'Subtask Manager';
   assignee: string = 'Brian Griffin';
   coOwner: string = 'Peter Griffin';
   importance: string = 'Very Urgent';
