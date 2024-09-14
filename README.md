@@ -16,7 +16,7 @@ Follow the instructions below to run the project locally.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ticket-edit-panel.git
+   [https://github.com/BlineraHysenaj/BlineraHysenaj.github.io.git]
     ```
 
 2. Navigate to the project directory:
