@@ -1,23 +1,28 @@
-import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 
-import { InlineEditComponent } from './inline-edit.component';
+@Component({
+  selector: 'app-editable-field',
+  templateUrl: './editable-field.component.html',
+  styleUrls: ['./editable-field.component.css']
+})
+export class EditableFieldComponent {
+  @Input() fieldName!: string;
+  @Input() fieldValue!: string;
+  @Output() fieldSave = new EventEmitter<string>();
 
-describe('InlineEditComponent', () => {
-  let component: InlineEditComponent;
-  let fixture: ComponentFixture<InlineEditComponent>;
+  isEditing = false;
+  inputValue: string = '';
 
-  beforeEach(async () => {
-    await TestBed.configureTestingModule({
-      imports: [InlineEditComponent]
-    })
-    .compileComponents();
+  ngOnInit() {
+    this.inputValue = this.fieldValue;
+  }
 
-    fixture = TestBed.createComponent(InlineEditComponent);
-    component = fixture.componentInstance;
-    fixture.detectChanges();
-  });
+  toggleEdit() {
+    this.isEditing = true;
+  }
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
-  });
-});
+  saveField() {
+    this.fieldSave.emit(this.inputValue);
+    this.isEditing = false;
+  }
+}

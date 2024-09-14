@@ -1,5 +1,9 @@
-<div (click)="toggleEdit()">
-    <span *ngIf="!isEditing">{{ value }}</span>
-    <input *ngIf="isEditing" [formControl]="editControl" (blur)="toggleEdit()" />
-  </div>
-  
+<div class="editable-field" (mouseover)="isEditing = true" (mouseleave)="isEditing = false">
+  <span>{{ fieldName }}: </span>
+  <ng-container *ngIf="isEditing; else textMode">
+    <input [(ngModel)]="inputValue" (blur)="saveField()" />
+  </ng-container>
+  <ng-template #textMode>
+    <span (click)="toggleEdit()" class="editable-text">{{ fieldValue }}</span>
+  </ng-template>
+</div>

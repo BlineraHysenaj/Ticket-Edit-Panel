@@ -6,7 +6,7 @@
 
       <ul class="nav nav-pills">
         <li class="nav-item">
-          <a class="nav-link active d-flex align-items-center" href="#">
+          <a class="nav-link active d-flex align-items-center" href="#" data-view="details">
             <svg width="19" height="13" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg"
               xmlns:xlink="http://www.w3.org/1999/xlink" style="display: inline-block; vertical-align: middle">
               <title>icon-details</title>
@@ -28,8 +28,9 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#"><svg width="15" height="13" viewBox="0 0 15 13" version="1.1"
-              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <a class="nav-link d-flex align-items-center" href="#" data-view="activity">
+            <svg width="15" height="13" viewBox="0 0 15 13" version="1.1" xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>icon-activity</title>
               <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"
                 stroke-linejoin="round">
@@ -50,8 +51,9 @@
             <span style="vertical-align: middle"> Activity</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><svg width="15" height="15" viewBox="0 0 15 15" version="1.1"
-              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <a class="nav-link d-flex align-items-center" href="#" data-view="comments">
+            <svg width="15" height="15" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>icon-comments</title>
               <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"
                 stroke-linejoin="round">
@@ -69,8 +71,9 @@
             </svg><span class="mr-5"> Comments</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><svg width="15" height="16" viewBox="0 0 15 16" version="1.1"
-              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <a class="nav-link d-flex align-items-center" href="#" data-view="attachments">
+            <svg width="15" height="16" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>icon-attachments</title>
               <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"
                 stroke-linejoin="round">
@@ -86,8 +89,14 @@
             </svg><span class="mr-5"> Attachments</span></a>
         </li>
       </ul>
-      <!-- View Switcher -->
-      <div class="custom-card p-2 d-flex align-items-center">
+
+      <div id="activity" class="view-section">
+      </div>
+      <div id="comments" class="view-section">
+      </div>
+      <div id="attachments" class="view-section">
+      </div>
+      <div class="custom-card header-card p-2 d-flex align-items-center">
         <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink">
           <title>icon-logicpilot</title>
@@ -183,6 +192,15 @@
           </div>
           <div class="col-8"> <span>Brian Griffin</span>
           </div>
+
+          <!-- <div class="details-section mt-4">
+            <app-editable-field 
+            [fieldName]="'Invoice ID'" 
+            [fieldValue]="invoiceId" 
+            (fieldSave)="updateField('Invoice ID', $event)">
+            </app-editable-field>
+          </div> -->
+
         </div>
         <div class="row mb-2">
           <div class="col-4">
